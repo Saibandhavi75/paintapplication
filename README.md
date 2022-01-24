@@ -218,9 +218,11 @@ Blank Canvas:
 ![output](https://github.com/Saibandhavi75/paintapplication/blob/main/input%201.PNG?raw=true)
 
 Canvas with different shapes, colors and sizes:
+
 ![output](https://github.com/Saibandhavi75/paintapplication/blob/main/input%202.PNG?raw=true)
 
 Alert box for size change:
+
 ![output](https://github.com/Saibandhavi75/paintapplication/blob/main/input%203.PNG?raw=true)
 ## Result:
 
